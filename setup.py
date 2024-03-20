@@ -25,7 +25,7 @@ def get_project_name():
 
 setup(
     name=get_project_name(),
-    version='0.1.0',
+    version='0.1.1',
     author='Ashary Gartanto',
     author_email='ashary.gartanto@gmail.com',
     description='CLI generator tool for FastAPI Framework',
