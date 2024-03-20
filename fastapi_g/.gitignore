@@ -1,4 +1,0 @@
-dist/*
-fastapi_g.egg-info/*
-.idea
-venv/*
