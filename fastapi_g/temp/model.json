@@ -1,0 +1,13 @@
+{
+  "employees": {
+    "employee_id": "str",
+    "firstName": "str",
+    "lastName": "str",
+    "photo": "blob"
+  },
+  "transaction": {
+    "transaction_id": "str",
+    "transaction_name": "str",
+    "transaction_created": "datetime"
+  }
+}
